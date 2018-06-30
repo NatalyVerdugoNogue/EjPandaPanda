@@ -1,0 +1,84 @@
+body {
+  background-color: #fb8c5c;
+}
+
+.col {
+  padding: 0;
+}
+
+p {
+  color: white;
+}
+
+.text1 {
+  margin: 0;
+  margin-right: 5%;
+  margin-top: 5%;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.text2 {
+  margin-right: 5%;
+  font-size: 0.5rem;
+}
+
+.textTitle {
+  margin-top: 10%;
+  margin-bottom: 0;
+  font-size: 0.6rem;
+  font-weight: bold;
+}
+
+.textCont {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  font-size: 0.2rem;
+}
+
+.divText {
+  background-color: #94f484;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.textInfo {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  background-color: #fb8c5c;
+}
+
+.imgBW {
+  filter: grayscale(100%);
+}
+
+.textPict {
+  margin-top: 6%;
+  font-size: 1.1rem;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+.imgF {
+  margin: 0;
+  border: 0.2rem solid white;
+}
+
+.col-2 {
+  padding: 1.5%;
+  margin-bottom: 5%;
+}
+
+.textFoot {
+  font-size: 0.4rem;
+  margin-bottom: 0.5%;
+  margin-top: 2%;
+  margin-right: 2%;
+}
+
+/* #row2 {
+  background-image: url(../img/uno.jpg);
+  padding: 15rem;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat; */
